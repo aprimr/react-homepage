@@ -1,2 +1,2 @@
 # Live preview
-https://github.com/aprimr/react-homepage
+https://first-react-homepage.netlify.app
